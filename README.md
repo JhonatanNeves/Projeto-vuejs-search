@@ -11,7 +11,7 @@ Esta é uma PokeSearch feita em Vue.js.
 <img alt="Readme" tittle="Readme" src="./src/assets/7.png">
 <img alt="Readme" tittle="Readme" src="./src/assets/gipokemon.gif">
 
-<p>Site contruido com Vuejs usando axios e bulma, Sistema de busca atraves de API externa.<p>
+<p>Site construido com Vuejs usando axios e bulma, Sistema de busca atraves de API externa.<p>
 
 ### Features
 
